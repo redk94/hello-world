@@ -1,2 +1,4 @@
 # hello-world
-hello world git repo.
+
+Hi Humans!
+I like Node.js?
